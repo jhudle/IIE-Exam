@@ -1,0 +1,12 @@
+html, body {
+    background: #141414;
+}
+.the-form{
+    background: #0ECEF6;
+}
+.form-group{
+    margin-bottom: 20px;
+}
+label{
+    color: #FFFFFF !important;
+}
